@@ -15,5 +15,5 @@
 - 1908-split-path.ipynb
     + https://nbviewer.jupyter.org/github/sakai-memoru/pwshnote/blob/master/1908-powershell-split-path.ipynb
 
-- 1908-powershell-specialfolder-getfolderpath
+- 1908-powershell-specialfolder-getfolderpath.ipynb
     + https://nbviewer.jupyter.org/github/sakai-memoru/pwshnote/blob/master/1908-powershell-specialfolder-getfolderpath.ipynb
