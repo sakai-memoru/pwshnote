@@ -5,7 +5,7 @@
 
 ## contents
 
-## basic
+### basic
 
 - powershell-sample.ipynb
     + https://nbviewer.jupyter.org/github/sakai-memoru/pwshnote/blob/master/powershell-sample.ipynb
