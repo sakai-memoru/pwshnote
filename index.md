@@ -21,3 +21,7 @@
 - 1908-powershell-specialfolder-getfolderpath.ipynb
     + https://nbviewer.jupyter.org/github/sakai-memoru/pwshnote/blob/master/1908-powershell-specialfolder-getfolderpath.ipynb
 
+### operate files
+
+- 1908-powershell-touch.ipynb
+    - https://nbviewer.jupyter.org/github/sakai-memoru/pwshnote/blob/master/1908-powershell-touch.ipynb
